@@ -5,6 +5,7 @@ make args="$file $mode" run
 
 Here,
 $file = filename (given in txt files) with extensions
+
 $mode = Simulation mods - 
     b - backtracking
     sa - simulated annealing, not yet implemented
